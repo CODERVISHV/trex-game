@@ -69,7 +69,7 @@ jump.shapeColor="green";
 }
 
 function draw() {
-   background("white");
+   background("black");
   
   if(gamestate==="play"){
     //move the ground
